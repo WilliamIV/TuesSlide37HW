@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TuesSlide37HW\TuesSlide37HW\bin\Debug\TuesSlide37HW.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TuesSlide37HW\TuesSlide37HW\obj\Debug\TuesSlide37HW.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TuesSlide37HW\TuesSlide37HW\bin\Debug\TuesSlide37HW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TuesSlide37HW\TuesSlide37HW\bin\Debug\TuesSlide37HW.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TuesSlide37HW\TuesSlide37HW\obj\Debug\TuesSlide37HW.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TuesSlide37HW\TuesSlide37HW\obj\Debug\TuesSlide37HW.pdb
